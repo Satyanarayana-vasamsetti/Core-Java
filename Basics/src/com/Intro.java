@@ -39,5 +39,10 @@ public class Intro {
 		int aaaa = 076;
 		System.out.println(aaaa);
 		
+		
+		//Default values
+		//for classes default value is NULL
+		int i=-0;
+		System.out.println(i);
 	}
 }
